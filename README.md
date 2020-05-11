@@ -8,7 +8,7 @@ The code may not be very elegant, as I prefer to just get the work done rather t
 
 Please don't create pull requests or file issues on GitHub: they'll be ignored. 
 
-*If you're viewing this on GitHub, I recommend you view it [online](https://school-python.itsnoahevans.co.uk) for the best experience
+*If you're viewing this on GitHub, I recommend you view it [online](https://school-python.itsnoahevans.co.uk) for the best experience*
 
 ## Sections
 
